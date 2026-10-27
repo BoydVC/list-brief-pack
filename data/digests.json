@@ -1,0 +1,197 @@
+{
+  "generated_at": "2026-10-26T21:22:00-04:00",
+  "disclaimer": "SYNTHETIC \u2014 seeded for demo. Not live-fetched list timelines except items marked in live_sample.json.",
+  "lists": [
+    {
+      "id": "list-ai-agents",
+      "name": "AI Agent Tooling",
+      "visibility": "private",
+      "synthetic": true,
+      "member_count": 28,
+      "theme": "AI-agent tooling",
+      "why_boyd": "Bookmarks cluster on Grok Bot, Roemmele templates, marketplace, multi-agent peer review.",
+      "clusters": [
+        {
+          "id": "c-ai-1",
+          "headline": "Grok Bot template shelf accelerating",
+          "summary": "SYNTHETIC cluster: creators shipping email digests, X Articles You Missed, and calendar-aware bots. Marketplace + Bot Shelf mirrors of Roemmele packs are the pattern Boyd already bookmarked.",
+          "posts_cited": 4,
+          "urgency": "high",
+          "actions": [
+            "read",
+            "save_idea",
+            "ignore"
+          ]
+        },
+        {
+          "id": "c-ai-2",
+          "headline": "Multi-agent peer review before merge",
+          "summary": "SYNTHETIC: several agent accounts describing critique-loops (spawn reviewers \u2192 score \u2192 graft). Matches Jim's runner-up and Boyd's peer-review interest.",
+          "posts_cited": 3,
+          "urgency": "medium",
+          "actions": [
+            "read",
+            "save_idea",
+            "ignore"
+          ]
+        },
+        {
+          "id": "c-ai-3",
+          "headline": "Vault / 1Password hygiene for bot fleets",
+          "summary": "SYNTHETIC: posts on credential vaults for agent logins; ties to Boyd's 1Password Business pricing research and vault skill.",
+          "posts_cited": 2,
+          "urgency": "medium",
+          "actions": [
+            "read",
+            "save_idea",
+            "ignore"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "list-elon-xai",
+      "name": "Elon \u00b7 xAI \u00b7 SpaceX",
+      "visibility": "private",
+      "synthetic": true,
+      "member_count": 22,
+      "theme": "Elon/xAI/SpaceX",
+      "why_boyd": "Standing overweight (TSLA/SPCX narrative) + Starlink/Ukraine signal from Jim.",
+      "clusters": [
+        {
+          "id": "c-spx-1",
+          "headline": "Super Heavy Flight 15 static fire complete",
+          "summary": "SYNTHETIC wrap around the LIVE SpaceX static-fire post: 33-engine full-duration fire. Watch item for Starship cadence.",
+          "posts_cited": 2,
+          "urgency": "high",
+          "actions": [
+            "read",
+            "save_idea",
+            "ignore"
+          ],
+          "live_anchor": "https://x.com/SpaceX/status/2114444137067844004"
+        },
+        {
+          "id": "c-spx-2",
+          "headline": "Starlink cadence + Starlink/Ukraine coverage",
+          "summary": "SYNTHETIC: Falcon 9 Starlink deploys continue; analysts rehash connectivity geopolitics Boyd tracks.",
+          "posts_cited": 3,
+          "urgency": "medium",
+          "actions": [
+            "read",
+            "save_idea",
+            "ignore"
+          ]
+        },
+        {
+          "id": "c-spx-3",
+          "headline": "xAI product surface expanding via Grok Bot",
+          "summary": "SYNTHETIC: marketplace Personal category + calling businesses narrative (parked \u2014 not enabled on this account).",
+          "posts_cited": 2,
+          "urgency": "low",
+          "actions": [
+            "read",
+            "save_idea",
+            "ignore"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "list-sports",
+      "name": "Ravens \u00b7 Orioles \u00b7 Chelsea \u00b7 Terps",
+      "visibility": "private",
+      "synthetic": true,
+      "member_count": 35,
+      "theme": "Ravens/Orioles/Chelsea/Terps",
+      "why_boyd": "Core sports desk; Jim notes Bengals collapse context and Lamar vs Buffalo.",
+      "clusters": [
+        {
+          "id": "c-rav-1",
+          "headline": "Ravens practice-squad DB + Lamar messaging",
+          "summary": "SYNTHETIC wrap of LIVE Ravens posts: Rayshawn Jenkins signed to PS; Coach Minter on Lamar; 'we control where we go.' Buffalo stretch prep.",
+          "posts_cited": 3,
+          "urgency": "high",
+          "actions": [
+            "read",
+            "save_idea",
+            "ignore"
+          ],
+          "live_anchor": "https://x.com/Ravens/status/2114802835909124339"
+        },
+        {
+          "id": "c-rav-2",
+          "headline": "Ravens Daily radio debut Nov 9",
+          "summary": "SYNTHETIC wrap of LIVE announcement: year-round 3\u20135pm WBAL show with Michael Pierce + Kyle Youmans.",
+          "posts_cited": 1,
+          "urgency": "medium",
+          "actions": [
+            "read",
+            "save_idea",
+            "ignore"
+          ],
+          "live_anchor": "https://x.com/Ravens/status/2114738648201486651"
+        },
+        {
+          "id": "c-orl-1",
+          "headline": "Orioles hot-stove quiet week",
+          "summary": "SYNTHETIC: offseason rumor mill slow; keep watching front-office signals for 2026 roster.",
+          "posts_cited": 2,
+          "urgency": "low",
+          "actions": [
+            "read",
+            "save_idea",
+            "ignore"
+          ]
+        },
+        {
+          "id": "c-chel-1",
+          "headline": "Chelsea midweek form watch",
+          "summary": "SYNTHETIC: Premier League chatter on squad rotation; no must-act item for Boyd tonight.",
+          "posts_cited": 2,
+          "urgency": "low",
+          "actions": [
+            "read",
+            "save_idea",
+            "ignore"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "list-family-kids",
+      "name": "Family \u00b7 Kids Tech",
+      "visibility": "private",
+      "synthetic": true,
+      "member_count": 14,
+      "theme": "family/kids tech",
+      "why_boyd": "Jim flagged Inkwright (coding studio ages 9\u201313) for Char (~13) and Vic (~11).",
+      "clusters": [
+        {
+          "id": "c-kid-1",
+          "headline": "Age-safe coding studio pattern (Inkwright-shaped)",
+          "summary": "SYNTHETIC: kids coding coaches with parent overview and project briefs \u2014 burn night already queued Kids Coding Studio separately.",
+          "posts_cited": 2,
+          "urgency": "high",
+          "actions": [
+            "read",
+            "save_idea",
+            "ignore"
+          ]
+        },
+        {
+          "id": "c-kid-2",
+          "headline": "Screen-time + AI tutor guardrails",
+          "summary": "SYNTHETIC: parents sharing prompt constraints and session timers for household bots.",
+          "posts_cited": 2,
+          "urgency": "medium",
+          "actions": [
+            "read",
+            "save_idea",
+            "ignore"
+          ]
+        }
+      ]
+    }
+  ]
+}

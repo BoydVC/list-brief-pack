@@ -1,0 +1,79 @@
+{
+  "fetched_at": "2026-10-26T21:22:00-04:00",
+  "timezone_note": "America/New_York (UTC-4)",
+  "source": "Built-in public X reads (get_users_posts) this session",
+  "posts": [
+    {
+      "handle": "BrianRoemmele",
+      "name": "Brian Roemmele",
+      "id": "2114840463018717588",
+      "created_at_utc": "2026-10-26T22:03:52.000Z",
+      "created_at_et": "2026-10-26 6:03 PM ET",
+      "text": "GROK BOT + IOS CALENDAR = WOW \u2014 Grok Bot all in my iPhone calendar is absolutely world changing. Not just to keep me on task, but to have a system of letting me know when I missed a response so that I can be reminded of timing...",
+      "url": "https://x.com/BrianRoemmele/status/2114840463018717588",
+      "likes": 62,
+      "theme": "AI-agent tooling",
+      "why_boyd": "Directly matches his bookmark cluster on Grok Bot product/use and Roemmele templates."
+    },
+    {
+      "handle": "BrianRoemmele",
+      "name": "Brian Roemmele",
+      "id": "2114885756724650389",
+      "created_at_utc": "2026-10-27T01:03:51.000Z",
+      "created_at_et": "2026-10-26 9:03 PM ET",
+      "text": "Microsoft Offers Exit Packages to 60,000 Employees Amid AI Push \u2014 Wow! 60,000 Microsoft\u2014gone as AI \u201creplaces\u201d them. This is the end of work as we know it.",
+      "url": "https://x.com/BrianRoemmele/status/2114885756724650389",
+      "likes": 35,
+      "theme": "AI-agent tooling",
+      "why_boyd": "Labor/AI shift signal for fleet and firm AI strategy conversations."
+    },
+    {
+      "handle": "SpaceX",
+      "name": "SpaceX",
+      "id": "2114444137067844004",
+      "created_at_utc": "2026-10-25T19:49:01.000Z",
+      "created_at_et": "2026-10-25 3:49 PM ET",
+      "text": "Full duration 33-engine static fire for the Super Heavy booster preparing for Flight 15",
+      "url": "https://x.com/SpaceX/status/2114444137067844004",
+      "likes": 19209,
+      "theme": "Elon/xAI/SpaceX",
+      "why_boyd": "Standing overweight interest in SpaceX/Starship cadence; Flight 15 prep is a watch item."
+    },
+    {
+      "handle": "SpaceX",
+      "name": "SpaceX",
+      "id": "2113786051009696177",
+      "created_at_utc": "2026-10-24T00:14:01.000Z",
+      "created_at_et": "2026-10-23 8:14 PM ET",
+      "text": "Falcon 9 launches 27 Starlink satellites from California",
+      "url": "https://x.com/SpaceX/status/2113786051009696177",
+      "likes": 9681,
+      "theme": "Elon/xAI/SpaceX",
+      "why_boyd": "Starlink launch cadence; ties to Starlink/Ukraine and connectivity interests."
+    },
+    {
+      "handle": "Ravens",
+      "name": "Baltimore Ravens",
+      "id": "2114802835909124339",
+      "created_at_utc": "2026-10-26T19:34:21.000Z",
+      "created_at_et": "2026-10-26 3:34 PM ET",
+      "text": "We have signed DB Rayshawn Jenkins to the Practice Squad.",
+      "url": "https://x.com/Ravens/status/2114802835909124339",
+      "likes": 291,
+      "theme": "Ravens/sports",
+      "why_boyd": "Roster move before Buffalo stretch; Jim flagged Lamar as a decent spot vs Buffalo."
+    },
+    {
+      "handle": "Ravens",
+      "name": "Baltimore Ravens",
+      "id": "2114738648201486651",
+      "created_at_utc": "2026-10-26T15:19:18.000Z",
+      "created_at_et": "2026-10-26 11:19 AM ET",
+      "text": "We\u2019re excited to announce the upcoming premiere of \u201cRavens Daily,\u201d a two-hour, year-round daily radio show. Debuting Nov. 9, Ravens Legend Michael Pierce will join Kyle Youmans on Monday-Friday from 3-5 p.m. on WBAL NewsRadio and Ravens digital platforms.",
+      "url": "https://x.com/Ravens/status/2114738648201486651",
+      "likes": 222,
+      "theme": "Ravens/sports",
+      "why_boyd": "New year-round Ravens media product \u2014 candidate for Sports Sunday desk template."
+    }
+  ]
+}

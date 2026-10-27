@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>List Brief Pack</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <div class="mark">LB</div>
+      <div>
+        <h1>List Brief Pack</h1>
+        <p class="tag">X Lists → daily brief + marketplace templates · local · Grok Bot burn</p>
+      </div>
+    </div>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-tab="brief">Daily Brief</button>
+    <button class="tab" data-tab="live">Live Sample</button>
+    <button class="tab" data-tab="pack">Marketplace Pack</button>
+  </nav>
+
+  <main>
+    <section id="panel-brief" class="panel active">
+      <div class="banner" id="disclaimer"></div>
+      <div id="clusters" class="cards"></div>
+    </section>
+
+    <section id="panel-live" class="panel">
+      <p class="hint">Real public posts fetched this session via built-in X reads. Times shown in America/New_York.</p>
+      <div id="live" class="cards"></div>
+    </section>
+
+    <section id="panel-pack" class="panel">
+      <p class="hint">Roemmele-style fleet cards — copy the prompt markdown into a Grok Bot. Local pack only; not published.</p>
+      <div id="templates" class="cards"></div>
+    </section>
+  </main>
+
+  <footer>
+    <span>http://127.0.0.1:4332</span>
+    <span>· SYNTHETIC digests + LIVE sample · TokenMax-side</span>
+  </footer>
+
+  <div id="toast" hidden></div>
+  <script src="/app.js"></script>
+</body>
+</html>

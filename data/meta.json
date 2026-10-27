@@ -1,0 +1,13 @@
+{
+  "product": "List Brief Pack",
+  "port": 4332,
+  "owner": "Christopher Boyd",
+  "burn": "Grok Bot weekly (TokenMax-side)",
+  "themes": [
+    "AI-agent tooling",
+    "Elon/xAI/SpaceX",
+    "Ravens/Orioles/Chelsea/Terps",
+    "family/kids tech"
+  ],
+  "template_count_target": 6
+}

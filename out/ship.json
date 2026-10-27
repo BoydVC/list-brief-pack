@@ -1,0 +1,13 @@
+{
+  "product": "List Brief Pack",
+  "path": "/workspace/tokenmax/list-brief-pack",
+  "url": "http://127.0.0.1:4332/",
+  "port": 4332,
+  "lists": 4,
+  "clusters": 12,
+  "live_posts": 6,
+  "templates": 7,
+  "research_lines": 151,
+  "smoke": "PASS",
+  "run": "./run.sh"
+}

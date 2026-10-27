@@ -1,0 +1,95 @@
+{
+  "pack_name": "Boyd Fleet Pack \u2014 List Brief Edition",
+  "inspired_by": [
+    "https://botshelf.dev/creators/brianroemmele/",
+    "https://x.ai/bot/marketplace/personal",
+    "https://grokbot.dev/marketplace/x-articles-you-missed/"
+  ],
+  "count": 7,
+  "templates": [
+    {
+      "id": "email-bot-triage",
+      "title": "Email Bot Triage Checklist",
+      "what_it_does": "Turns an inbox into a daily triage brief with draft replies you approve before send.",
+      "tags": [
+        "email",
+        "ops",
+        "Roemmele-style"
+      ],
+      "file": "templates/email-bot-triage.md",
+      "lines": 19
+    },
+    {
+      "id": "cos-routing",
+      "title": "Chief of Staff Routing Checklist",
+      "what_it_does": "Routes incoming asks to the right fleet bot with a confirmation gate and priority.",
+      "tags": [
+        "ops",
+        "fleet",
+        "routing"
+      ],
+      "file": "templates/cos-routing.md",
+      "lines": 26
+    },
+    {
+      "id": "list-news-brief",
+      "title": "List-News Brief",
+      "what_it_does": "Turns curated X List themes into a clustered daily digest with action chips.",
+      "tags": [
+        "x-lists",
+        "digest",
+        "news"
+      ],
+      "file": "templates/list-news-brief.md",
+      "lines": 18
+    },
+    {
+      "id": "peer-review-loop",
+      "title": "Peer-Review Loop Before Merge",
+      "what_it_does": "Spawns adversarial reviewers, scores findings, and requires a graft pass before ship.",
+      "tags": [
+        "multi-agent",
+        "qa",
+        "review"
+      ],
+      "file": "templates/peer-review-loop.md",
+      "lines": 20
+    },
+    {
+      "id": "vault-hygiene",
+      "title": "Vault / Login Hygiene Reminder",
+      "what_it_does": "Weekly reminder checklist for credential hygiene across bot fleet and household logins.",
+      "tags": [
+        "vault",
+        "security",
+        "ops"
+      ],
+      "file": "templates/vault-hygiene.md",
+      "lines": 13
+    },
+    {
+      "id": "sports-sunday",
+      "title": "Sports Sunday Desk",
+      "what_it_does": "Weekend sports brief across Ravens, Orioles, Chelsea, and Terps with watch items only.",
+      "tags": [
+        "sports",
+        "digest",
+        "weekend"
+      ],
+      "file": "templates/sports-sunday.md",
+      "lines": 15
+    },
+    {
+      "id": "x-lists-marketplace-pack",
+      "title": "X Lists \u2192 Marketplace Pack Builder",
+      "what_it_does": "Converts a List brief into reusable Grok Bot prompt cards ready to paste into the fleet.",
+      "tags": [
+        "marketplace",
+        "templates",
+        "meta"
+      ],
+      "file": "templates/x-lists-marketplace-pack.md",
+      "lines": 11
+    }
+  ]
+}
