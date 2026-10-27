@@ -1,5 +1,7 @@
 # List Brief Pack
 
+![list-brief-pack](screenshots/hero.png)
+
 **X Lists → Personalized Brief + Marketplace Pack** for Christopher Boyd.
 
 Local web app that turns curated X list *themes* into a clustered daily digest UI, and ships reusable Roemmele-style bot templates as copyable fleet cards.
