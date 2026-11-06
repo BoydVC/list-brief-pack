@@ -1,6 +1,6 @@
 # X Lists → Marketplace Pack Builder
 
-When Boyd likes a cluster from the List Brief:
+When Alex likes a cluster from the List Brief:
 
 1. Name a template card (verb + noun).
 2. Write one-line what-it-does.
@@ -8,4 +8,4 @@ When Boyd likes a cluster from the List Brief:
 4. Tag for marketplace shelves: Personal / Ops / Sports / Family.
 5. Drop into `/templates` and refresh the pack UI.
 
-Ship local first; only publish to a public marketplace when Boyd explicitly asks.
+Ship local first; only publish to a public marketplace when Alex explicitly asks.

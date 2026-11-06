@@ -1,6 +1,6 @@
 # Sports Sunday Desk
 
-Produce a Sunday (or Friday night) sports desk for Boyd.
+Produce a Sunday (or Friday night) sports desk for Alex.
 
 ## Sections
 1. **Ravens** — injury/roster, opponent, Lamar notes, must-watch.

@@ -2,7 +2,7 @@
 
 ![list-brief-pack](screenshots/hero.png)
 
-**X Lists → Personalized Brief + Marketplace Pack** for Christopher Boyd.
+**X Lists → Personalized Brief + Marketplace Pack** for Alex Rivera.
 
 Local web app that turns curated X list *themes* into a clustered daily digest UI, and ships reusable Roemmele-style bot templates as copyable fleet cards.
 
@@ -19,7 +19,7 @@ cd /workspace/tokenmax/list-brief-pack
 ./smoke_test.sh
 ```
 
-1. **Daily Brief** — skim clusters (urgency + why it matters to Boyd). Hit **Read / Save idea / Ignore**.
+1. **Daily Brief** — skim clusters (urgency + why it matters to Alex). Hit **Read / Save idea / Ignore**.
 2. **Live Sample** — real public posts from @BrianRoemmele, @SpaceX, @Ravens with cited URLs.
 3. **Marketplace Pack** — open a card → **Copy prompt** → paste into a Grok Bot.
 
@@ -42,7 +42,7 @@ AI-agent tooling · Elon/xAI/SpaceX · Ravens/Orioles/Chelsea/Terps · family/ki
 
 ## Hard limits for this burn
 
-- No messaging Boyd, no email/Slack/X as Boyd
+- No messaging Alex, no email/Slack/X as Alex
 - No kpdlawgroup, no on-demand, no X Money moves, no call-a-business
 
 ## Safety (brief-011 fold) — see `SAFETY.md`
