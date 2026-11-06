@@ -2,15 +2,15 @@
 
 ## Problem
 
-Boyd's bookmarks (Jim · Interests, Oct 20–26) cluster on **Grok Bot product/use**: Roemmele templates, marketplace, X Lists as news, multi-agent peer review. The For You feed is noisy; Lists are the chronological filter. He also under-burns the **Grok Bot weekly** pool when cool work runs on Cursor cloud agents instead.
+Alex's bookmarks (Jim · Interests, Oct 20–26) cluster on **Grok Bot product/use**: Roemmele templates, marketplace, X Lists as news, multi-agent peer review. The For You feed is noisy; Lists are the chronological filter. He also under-burns the **Grok Bot weekly** pool when cool work runs on Cursor cloud agents instead.
 
 ## Product shape
 
 Three panes, one local server:
 
-1. **Daily Brief** — clusters per List theme, not a raw timeline. Each cluster answers: what happened, why Boyd cares, what to do (read / save idea / ignore).
+1. **Daily Brief** — clusters per List theme, not a raw timeline. Each cluster answers: what happened, why Alex cares, what to do (read / save idea / ignore).
 2. **Live Sample** — a thin strip of *actually fetched* public posts so the demo is not 100% synthetic.
-3. **Marketplace Pack** — ≥6 prompt cards Boyd can copy into fleet bots (email triage, CoS routing, list-news brief, peer-review loop, vault hygiene, sports Sunday, pack builder).
+3. **Marketplace Pack** — ≥6 prompt cards Alex can copy into fleet bots (email triage, CoS routing, list-news brief, peer-review loop, vault hygiene, sports Sunday, pack builder).
 
 ## Architecture
 
@@ -33,7 +33,7 @@ browser ──► static/* (HTML/CSS/JS)
 - **Label honesty.** SYNTHETIC vs LIVE badges everywhere.
 - **Copyability.** Templates are markdown you can paste; one click Copy.
 - **Irreversible gate.** Templates remind: never send/post/pay without named approval.
-- **Boyd-personal why.** Every cluster carries a why_boyd string grounded in Jim's snapshot.
+- **Alex-personal why.** Every cluster carries a why_boyd string grounded in Jim's snapshot.
 
 ## Non-goals (this burn)
 

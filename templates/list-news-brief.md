@@ -1,10 +1,10 @@
 # List-News Brief
 
-Build a daily brief from Boyd's curated X List themes (AI agents, Elon/xAI/SpaceX, Ravens/Orioles/Chelsea/Terps, family/kids tech).
+Build a daily brief from Alex's curated X List themes (AI agents, Elon/xAI/SpaceX, Ravens/Orioles/Chelsea/Terps, family/kids tech).
 
 ## Method
 1. For each List theme, form 2–4 **clusters** (not a raw feed).
-2. Each cluster: headline, 2–4 sentence summary, why it matters to Boyd, urgency.
+2. Each cluster: headline, 2–4 sentence summary, why it matters to Alex, urgency.
 3. Prefer chronological Lists over For You algorithm noise.
 4. Mark SYNTHETIC vs LIVE. Cite URLs for every live post.
 5. End each cluster with three action chips: **read** / **save idea** / **ignore**.

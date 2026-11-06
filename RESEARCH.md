@@ -33,13 +33,13 @@ Socialkit's growth/monitoring write-up emphasizes the monitoring use case: indus
 
 - [How to Use Twitter (X) Lists for Growth and Monitoring](https://socialk.it/en/blog/how-to-use-twitter-lists)
 
-**Design takeaway for List Brief Pack:** seed theme Lists Boyd already cares about; cluster; label urgency; keep the chronological List mental model even when the UI is a digest.
+**Design takeaway for List Brief Pack:** seed theme Lists Alex already cares about; cluster; label urgency; keep the chronological List mental model even when the UI is a digest.
 
 ---
 
 ## 2. Bot template marketplaces and the Roemmele pattern
 
-Boyd's bookmark cluster (Jim · Interests, Oct 20–26) points hard at **Grok Bot templates** — especially packs shared by @BrianRoemmele and the emerging marketplace surface.
+Alex's bookmark cluster (Jim · Interests, Oct 20–26) points hard at **Grok Bot templates** — especially packs shared by @BrianRoemmele and the emerging marketplace surface.
 
 Public mirrors / catalogs observed this session:
 
@@ -61,7 +61,7 @@ Pattern shared across these templates:
 Live signal this session: @BrianRoemmele posted about Grok Bot + iOS Calendar integration  
 `https://x.com/BrianRoemmele/status/2114840463018717588` (fetched via public X reads, Oct 26, 2026 ET).
 
-**Design takeaway:** Marketplace Pack cards in this repo are *local* prompt markdown Boyd can paste — Roemmele-shaped, not a claim of publishing to x.ai.
+**Design takeaway:** Marketplace Pack cards in this repo are *local* prompt markdown Alex can paste — Roemmele-shaped, not a claim of publishing to x.ai.
 
 ---
 
@@ -122,7 +122,7 @@ Fetched with built-in public X tools (`get_users_by_usernames` → `get_users_po
 ## 6. Risks and honesty constraints
 
 1. **Stale Lists** — event Lists die; digests must say when a theme was quiet (TwitterAPI.io sample).
-2. **Synthetic seed data** — demo clusters are labeled SYNTHETIC so Boyd never confuses them with a live List pull.
+2. **Synthetic seed data** — demo clusters are labeled SYNTHETIC so Alex never confuses them with a live List pull.
 3. **Marketplace trust** — third-party template catalogs warn you to read instructions before install; our pack is local markdown only.
 4. **Irreversible actions** — templates encode approval gates (send-on-behalf skill norms).
 5. **Quota** — public X reads are rate-limited; live sample is a small cited strip, not continuous polling.
